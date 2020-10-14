@@ -16,4 +16,3 @@ for tr in trs:
     print(rank, title, artist)
 
 # 변경사항 확인
-# 변경사항 다시 확인
